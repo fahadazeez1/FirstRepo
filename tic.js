@@ -65,7 +65,7 @@ boxes.forEach((box) =>
   })
   
 })
-
+ 
 const ngame =()=>{
   boxes.forEach((box)=>{
     box.innerText=""
